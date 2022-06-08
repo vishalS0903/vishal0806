@@ -1,0 +1,42 @@
+1. what is php?
+scripting langauge,help to develop secure websites bachend(database)
+2. php syntax?
+<?php 
+?>
+
+3. version ?
+8.1
+
+4.case sensitivity?
+variables are case sensitive 
+
+5. data types
+6. difference between echo and printf?
+echo can take multiple parameteres
+echo is faster than printf
+print can take only one argument at a time
+printf returns thwe value
+
+7. long form php
+hypertext preposessor 
+ex-name
+personal homepage
+
+
+PHP Operators
+Arithmetic operators
+Assignment operators
+Comparison operators
+Increment/Decrement operators
+Logical operators
+String operators
+Array operators
+Conditional assignment operators
+
+Rules for PHP variables:
+
+A variable starts with the $ sign, followed by the name of the variable
+A variable name must start with a letter or the underscore character
+A variable name cannot start with a number
+A variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )
+Variable names are case-sensitive ($age and $AGE are two different variables)
